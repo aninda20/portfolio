@@ -31,7 +31,7 @@ const jobProjects = [
       "Conceived and executed a chat website, integrating user authentication elevating the user experience.",
     skills: [
       "JavaScript",
-      "MySQL",
+      "jQuery",
       "PHP",
       "AJAX",
     ],
