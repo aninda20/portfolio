@@ -30,9 +30,10 @@ const jobProjects = [
     description:
       "Conceived and executed a chat website, integrating user authentication elevating the user experience.",
     skills: [
-      "Next.js",
-      "Typescript",
       "JavaScript",
+      "MySQL",
+      "PHP",
+      "AJAX",
     ],
     link: "https://github.com/aninda20/college-chat-website",
   },

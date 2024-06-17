@@ -57,7 +57,7 @@ export default function Nav() {
           Hi, i&#39;m Aninda 👋
         </h1>
         <h2 className="text-xl lg:text-start">
-          Full-stack developer and data nerd.
+          Software Engineer and data nerd.
         </h2>
         <p className="text-lg lg:text-start text-muted-foreground">
         I create intuitive, user-centered applications and web experiences.
