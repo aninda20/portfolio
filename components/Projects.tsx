@@ -35,7 +35,7 @@ const jobProjects = [
       "PHP",
       "AJAX",
     ],
-    link: "https://github.com/aninda20/college-chat-website",
+    link: "https://college-chat-app.000webhostapp.com/",
   },
   
 ];
