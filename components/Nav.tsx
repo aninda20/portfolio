@@ -83,7 +83,7 @@ export default function Nav() {
       <ul className="flex flex-row gap-6 mt-6 lg:mt-0">
         <Button variant="outline" size="icon">
           <a
-            href="https://github.com/aninda20?tab=repositories"
+            href="https://github.com/aninda20"
             target="_blank"
             rel="noopener noreferrer"
           >
