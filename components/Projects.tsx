@@ -22,7 +22,7 @@ const jobProjects = [
       "Tweepy",
       "Natural Language Processing",
     ],
-    link: "https://github.com/aninda20/online-learning-sentimental-analysis-webapp",
+    link: "https://online-learning-sentimental-analysis-webapp-2mytae7rnbpgtvr4es.streamlit.app/",
   },
   {
     imagePath: "/college-chat.png",
