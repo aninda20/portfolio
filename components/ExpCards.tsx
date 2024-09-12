@@ -12,12 +12,12 @@ import { MoveRight } from "lucide-react";
 
 const jobPositions = [
   {
-    timeline: "Mar 2024 — May 2024",
+    timeline: "July 2024 — Present",
     currentPosition: "Software Engineer Intern",
     place: "Flow",
     previousPositions: [""],
     description:
-      "Led the Artificial Intelligence department, managing a high-performing team of five AI specialists utilizing Django and executed intake meetings with 12 clients resulting in 40% increase in department efficiency. Developed AI-enabled functions such as web scraper and Hubspot cross referencing for the MVP, enabling B2B sales professionals to perform up to 300 calls per day, thus increasing productivity by 50%",
+      "Led the Artificial Intelligence department at Flow, managing a high-performing team of five AI specialists utilizing Django. Engineered a robust suite of web analytics tools, integrating data-driven enhancements that resulted in a 35% improvement in client platform performance. Deployed machine learning models on AWS, enhancing operational efficiency by 30%",
     skills: [
       "Django",
       "AWS",
@@ -26,6 +26,8 @@ const jobPositions = [
       "Github",
       "Python",
       "Statistical Data Analysis",
+      "Machine Learning",
+      "Large Language Models",
       "UI/UX Design",
       "Figma",
       "Customer Relationship Management (CRM)",
@@ -37,6 +39,30 @@ const jobPositions = [
       "Selenium Testing",
       "Agile Methodologies",
       "API Development",
+      "Project Management",
+      "Planning",
+      "Leadership",
+      "Testing & QA",
+    ],
+  },
+  {
+    timeline: "Mar 2024 — May 2024",
+    currentPosition: "Software Engineer Intern",
+    place: "Flow",
+    previousPositions: [""],
+    description:
+      "Developed AI-enabled functions such as web scraper and Hubspot cross referencing for the MVP, enabling B2B sales professionals to perform up to 300 calls per day, thus increasing productivity by 50%. Led intake meetings with 12 clients, aligning AI solutions with business needs.",
+    skills: [
+      "Django",
+      "AWS",
+      "CSS",
+      "Github",
+      "Python",
+      "Statistical Data Analysis",
+      "Figma",
+      "Customer Relationship Management (CRM)",
+      "Hubspot",
+      "altassian",
       "Project Management",
       "Planning",
       "Leadership",
@@ -60,6 +86,7 @@ const jobPositions = [
       "Azure",
     ],
   },
+  
   
 ];
 
