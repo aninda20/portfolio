@@ -11,58 +11,58 @@ import { Badge } from "@/components/ui/badge";
 import { MoveRight } from "lucide-react";
 
 const jobPositions = [
-    {
-      "timeline": "Mar 2024 — Present",
-      "currentPosition": "Software Engineer",
-      "place": "Flow",
-      "previousPositions": [""],
-      "description": "Led the Artificial Intelligence department at Flow, managing a high-performing team of five AI specialists utilizing Django and executed intake meetings with 12 clients resulting in a 40% increase in department efficiency. Developed web scraper and Hubspot cross-referencing for the MVP, enabling B2B sales professionals to perform up to 300 calls per day, thus increasing productivity by 50%. Engineered a robust suite of web analytics tools, integrating data-driven enhancements that resulted in a 35% improvement in client platform performance. Deployed machine learning models on AWS, enhancing operational efficiency by 30%.",
-      "skills": [
-        "Django",
-        "AWS",
-        "CSS",
-        "Web Scraping",
-        "Github",
-        "Python",
-        "Statistical Data Analysis",
-        "Machine Learning",
-        "Large Language Models",
-        "UI/UX Design",
-        "Figma",
-        "Customer Relationship Management (CRM)",
-        "Hubspot",
-        "Jira",
-        "Kubernetes",
-        "Docker",
-        "Atlassian",
-        "Selenium Testing",
-        "Agile Methodologies",
-        "API Development",
-        "Project Management",
-        "Planning",
-        "Leadership",
-        "Testing & QA"
-      ]
-    },
-    {
-      "timeline": "Jan 2020 — June 2022",
-      "currentPosition": "Software Engineer",
-      "place": "Imple Creations",
-      "previousPositions": [""],
-      "description": "Designed, developed, and maintained 7 websites and applications, leveraging technologies including React, Flask, Django, etc.; this led to a 60% enhancement in user experience and product functionality.",
-      "skills": [
-        "React.js",
-        "AngularJS",
-        "Flask",
-        "WordPress",
-        "Django",
-        "Amazon Web Services (AWS)",
-        "Azure"
-      ]
-    }
-  ]
-}
-
+  {
+    timeline: "Mar 2024 — Present",
+    currentPosition: "Software Engineer",
+    place: "Flow",
+    previousPositions: [""],
+    description:
+      "Led the Artificial Intelligence department at Flow, managing a high-performing team of five AI specialists utilizing Django and executed intake meetings with 12 clients resulting in a 40% increase in department efficiency. Developed web scraper and Hubspot cross-referencing for the MVP, enabling B2B sales professionals to perform up to 300 calls per day, thus increasing productivity by 50%. Engineered a robust suite of web analytics tools, integrating data-driven enhancements that resulted in a 35% improvement in client platform performance. Deployed machine learning models on AWS, enhancing operational efficiency by 30%.",
+    skills: [
+      "Django",
+      "AWS",
+      "CSS",
+      "Web Scraping",
+      "Github",
+      "Python",
+      "Statistical Data Analysis",
+      "Machine Learning",
+      "Large Language Models",
+      "UI/UX Design",
+      "Figma",
+      "Customer Relationship Management (CRM)",
+      "Hubspot",
+      "Jira",
+      "Kubernetes",
+      "Docker",
+      "Atlassian",
+      "Selenium Testing",
+      "Agile Methodologies",
+      "API Development",
+      "Project Management",
+      "Planning",
+      "Leadership",
+      "Testing & QA"
+    ]
+  },
+  {
+    timeline: "Jan 2020 — June 2022",
+    currentPosition: "Software Engineer",
+    place: "Imple Creations",
+    previousPositions: [""],
+    description:
+      "Designed, developed, and maintained 7 websites and applications, leveraging technologies including React, Flask, Django, etc.; this led to a 60% enhancement in user experience and product functionality.",
+    skills: [
+      "React.js",
+      "AngularJS",
+      "Flask",
+      "WordPress",
+      "Django",
+      "Amazon Web Services (AWS)",
+      "Azure"
+    ]
+  }
+];
 
 export default function ExpCard() {
   return (
